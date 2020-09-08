@@ -1,11 +1,3 @@
-declare module "AM-to-MML" {
-
-    /* interface options {
-        width?: number,
-        ex?: number,
-        em?: number,
-        fontURL?: string
-    } */
-
+declare module "am-to-mml" {
     export default function AMToCHTML(str: string): string;
 }

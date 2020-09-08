@@ -1,6 +1,6 @@
 {
   "name": "am-to-mml",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "The MathJax library to convert AsciiMath to MML",
   "main": "AMToMML.js",
   "keywords": [
